@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.DbMigrator\\Lion.AbpSuite.DbMigrator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Application.Contracts\\Lion.AbpSuite.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Application.Contracts\\Lion.AbpSuite.Application.Contracts.csproj",
+        "projectName": "Lion.AbpSuite.Application.Contracts",
+        "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Application.Contracts\\Lion.AbpSuite.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Usama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Usama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\Lion.AbpSuite.Domain.Shared.csproj": {
+                "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\Lion.AbpSuite.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Lion.AbpPro.BasicManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            },
+            "Lion.AbpPro.NotificationManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.DbMigrator\\Lion.AbpSuite.DbMigrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.DbMigrator\\Lion.AbpSuite.DbMigrator.csproj",
+        "projectName": "Lion.AbpSuite.DbMigrator",
+        "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.DbMigrator\\Lion.AbpSuite.DbMigrator.csproj",
+        "packagesPath": "C:\\Users\\Usama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.DbMigrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Usama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Application.Contracts\\Lion.AbpSuite.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Application.Contracts\\Lion.AbpSuite.Application.Contracts.csproj"
+              },
+              "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.EntityFrameworkCore\\Lion.AbpSuite.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.EntityFrameworkCore\\Lion.AbpSuite.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\Lion.AbpSuite.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\Lion.AbpSuite.Domain.Shared.csproj",
+        "projectName": "Lion.AbpSuite.Domain.Shared",
+        "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\Lion.AbpSuite.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Usama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Usama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Humanizer.Core.zh-Hans": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Lion.AbpPro.BasicManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            },
+            "Lion.AbpPro.Core": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            },
+            "Lion.AbpPro.NotificationManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain\\Lion.AbpSuite.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain\\Lion.AbpSuite.Domain.csproj",
+        "projectName": "Lion.AbpSuite.Domain",
+        "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain\\Lion.AbpSuite.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Usama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\Lion.AbpSuite.Domain.Shared.csproj": {
+                "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain.Shared\\Lion.AbpSuite.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Lion.AbpPro.BasicManagement.Domain": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            },
+            "Lion.AbpPro.NotificationManagement.Domain": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            },
+            "Scriban": {
+              "target": "Package",
+              "version": "[5.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.EntityFrameworkCore\\Lion.AbpSuite.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.EntityFrameworkCore\\Lion.AbpSuite.EntityFrameworkCore.csproj",
+        "projectName": "Lion.AbpSuite.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.EntityFrameworkCore\\Lion.AbpSuite.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Usama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Usama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain\\Lion.AbpSuite.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\src\\Lion.AbpSuite.Domain\\Lion.AbpSuite.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Humanizer.Core.zh-Hans": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Lion.AbpPro.BasicManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            },
+            "Lion.AbpPro.NotificationManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.1.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.MySQL": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

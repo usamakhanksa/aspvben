@@ -1,0 +1,14 @@
+using  System;
+using  System.ComponentModel.DataAnnotations;
+using  {{ context.Project.NameSpace }}.Domain;
+using  {{ context.Project.NameSpace }}.Domain.Shared;
+
+namespace {{ context.Project.NameSpace }}.Application.Contracts;
+
+/// <summary>
+/// 创建{{ context.EntityModel.Description }}
+/// </summary>
+public class Page{{ context.EntityModel.Code }}Input : PagingBase
+{
+
+}

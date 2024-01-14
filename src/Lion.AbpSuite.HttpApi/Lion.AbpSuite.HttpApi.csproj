@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Lion.AbpSuite</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lion.AbpSuite.Application.Contracts\Lion.AbpSuite.Application.Contracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" />
+    <PackageReference Include="Lion.AbpPro.BasicManagement.HttpApi" />
+    <PackageReference Include="Lion.AbpPro.NotificationManagement.HttpApi" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\bin\Debug\net7.0\Lion.AbpSuite.Application.Contracts.deps.json
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\bin\Debug\net7.0\Lion.AbpSuite.Application.Contracts.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\bin\Debug\net7.0\Lion.AbpSuite.Application.Contracts.pdb
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\bin\Debug\net7.0\Lion.AbpSuite.Domain.Shared.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\bin\Debug\net7.0\Lion.AbpSuite.Domain.Shared.pdb
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.AssemblyInfo.cs
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.csproj.CopyComplete
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\refint\Lion.AbpSuite.Application.Contracts.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\Lion.AbpSuite.Application.Contracts.pdb
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Application.Contracts\obj\Debug\net7.0\ref\Lion.AbpSuite.Application.Contracts.dll

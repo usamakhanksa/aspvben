@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\host\\Lion.AbpSuite.HttpApi.Host\\wwwroot\\images\\cap.png",
+      "PackagePath": "staticwebassets\\images\\cap.png"
+    },
+    {
+      "Id": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\host\\Lion.AbpSuite.HttpApi.Host\\wwwroot\\images\\hangfire.png",
+      "PackagePath": "staticwebassets\\images\\hangfire.png"
+    },
+    {
+      "Id": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\host\\Lion.AbpSuite.HttpApi.Host\\wwwroot\\images\\miniprofiler.png",
+      "PackagePath": "staticwebassets\\images\\miniprofiler.png"
+    },
+    {
+      "Id": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\host\\Lion.AbpSuite.HttpApi.Host\\wwwroot\\images\\more.png",
+      "PackagePath": "staticwebassets\\images\\more.png"
+    },
+    {
+      "Id": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\host\\Lion.AbpSuite.HttpApi.Host\\wwwroot\\images\\swagger.png",
+      "PackagePath": "staticwebassets\\images\\swagger.png"
+    },
+    {
+      "Id": "C:\\Users\\Usama\\Downloads\\abp-vnext-pro-suite-main\\abp-vnext-pro-suite-main\\aspnet-core\\host\\Lion.AbpSuite.HttpApi.Host\\wwwroot\\images\\xxx-job.png",
+      "PackagePath": "staticwebassets\\images\\xxx-job.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Lion.AbpSuite.HttpApi.Host.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Lion.AbpSuite.HttpApi.Host.props",
+      "PackagePath": "build\\Lion.AbpSuite.HttpApi.Host.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Lion.AbpSuite.HttpApi.Host.props",
+      "PackagePath": "buildMultiTargeting\\Lion.AbpSuite.HttpApi.Host.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Lion.AbpSuite.HttpApi.Host.props",
+      "PackagePath": "buildTransitive\\Lion.AbpSuite.HttpApi.Host.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

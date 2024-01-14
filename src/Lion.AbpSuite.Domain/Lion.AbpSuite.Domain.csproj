@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Lion.AbpSuite</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Lion.AbpPro.BasicManagement.Domain" />
+    <PackageReference Include="Lion.AbpPro.NotificationManagement.Domain" />
+    <PackageReference Include="Scriban" Version="5.4.4" />
+ 
+ 
+    <ProjectReference Include="..\Lion.AbpSuite.Domain.Shared\Lion.AbpSuite.Domain.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\Templates\Standard\**\*.txt" />
+    <EmbeddedResource Include="Data\Templates\Standard\**\*.ts" />
+    <EmbeddedResource Include="Data\Templates\Standard\**\*.vue" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\bin\Release\net7.0\Lion.AbpSuite.Domain.deps.json
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\bin\Release\net7.0\Lion.AbpSuite.Domain.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\bin\Release\net7.0\Lion.AbpSuite.Domain.pdb
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\bin\Release\net7.0\Lion.AbpSuite.Domain.Shared.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\bin\Release\net7.0\Lion.AbpSuite.Domain.Shared.pdb
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.csproj.AssemblyReference.cache
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.AssemblyInfoInputs.cache
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.AssemblyInfo.cs
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.csproj.CopyComplete
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\refint\Lion.AbpSuite.Domain.dll
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\Lion.AbpSuite.Domain.pdb
+C:\Users\Usama\Downloads\abp-vnext-pro-suite-main\abp-vnext-pro-suite-main\aspnet-core\src\Lion.AbpSuite.Domain\obj\Release\net7.0\ref\Lion.AbpSuite.Domain.dll
